@@ -12255,4 +12255,7 @@
     <string name="nr_nsa_sa">NSA + SA</string>
     <string name="nr_nsa">NSA</string>
     <string name="nr_sa">SA</string>
+    <!-- Status bar Icon Manager -->
+    <string name="icon_manager_title">Status bar Icons</string>
+    <string name="icon_manager_summary">Control visibility of status bar icons</string>
 </resources>
